@@ -1,6 +1,7 @@
-RExif
+RExif 
 =========
 
+EXIF for actionscript.
 RExif to extract the exif data from the image.  
 RExif is extract "EXIF",  "JFIF",  "JFXX" fields.
 
